@@ -1,1 +1,1 @@
-Github repo containing non-work projects based on publicly available data. 
+Github repo containing projects based on publicly available data. 
