@@ -1,1 +1,1 @@
-Github repo containing personal projects based on publicly available data. 
+Github repo containing non-work projects based on publicly available data. 
